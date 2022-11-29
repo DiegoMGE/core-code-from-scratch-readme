@@ -97,10 +97,25 @@ End;
 ```
 
 ### Challenges - Thursday
-1. [Numbers](https://github.com/DiegoMGE/core-code-from-scratch-readme/edit/main/README.md#numbers)
-2. [Date of birth](https://github.com/DiegoMGE/core-code-from-scratch-readme/edit/main/README.md#dateofbirth)
-3. [Problem solving skills](https://github.com/DiegoMGE/core-code-from-scratch-readme/edit/main/README.md#problemsolvingskills)
+1. [Numbers](https://github.com/DiegoMGE/core-code-from-scratch-readme/edit/main/README.md#numbers-)
+2. [Date of birth](https://github.com/DiegoMGE/core-code-from-scratch-readme/edit/main/README.md#date-of-birth-)
+3. [Problem solving skills](https://github.com/DiegoMGE/core-code-from-scratch-readme/edit/main/README.md#treasures-)
 
 ## Numbers 📊
+#### An algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd.
+```
+Start;
+Ask the number;
+Divide the number by 2 and save the result in a variable named result;
+If result is 0
+    print that number is even
+If result is not 0
+    print that number is odd
+End;
+```
+![flowchart](https://i.imgur.com/VtP5p0U.png)
+
 ## Date of birth 👧
+#### 
+
 ## Treasures 👑
