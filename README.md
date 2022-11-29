@@ -113,9 +113,26 @@ If result is not 0
     print that number is odd
 End;
 ```
-![flowchart](https://i.imgur.com/VtP5p0U.png)
+![flowchart](https://i.imgur.com/Kdgcpbe.png)
 
 ## Date of birth 👧
-#### 
+#### An algorithm that calculates the age of a person based on date of birth
+```
+Start;
+Ask year of birthday and save it in a variable named bday;
+Subtract bday from actual year;
+Save the subtraction in a variable named result;
+Print result;
+End;
+```
 
 ## Treasures 👑
+#### We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
+
+```
+The chest says that the Middle chest has a treasure, but the message is a lie, so, the middle chest can't have a treasure.
+The middle chest says that every chest have a treasure, but the message is a lie, so, none have a treasure.
+The right chest says that only one chest might have a treasure, but the message is a lie, so, not only one can have a trasure.
+
+So, the Left and Right chest might have a treasure!
+```
